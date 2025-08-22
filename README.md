@@ -15,3 +15,6 @@ This is *italicized* *★~(◡﹏◕✿)*
 ### This is an image
 ![This is a hedgehog and a fox](https://preview.redd.it/does-anyone-know-anything-about-the-ova-why-it-was-made-how-v0-qk28rxsio0vd1.jpeg?width=320&crop=smart&auto=webp&s=bc9112be51b4a19ce5168aa18a30d2fa6288aa68)
 
+### Journal Entires
+
+Check out my Journal 
