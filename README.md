@@ -17,4 +17,4 @@ This is *italicized* *★~(◡﹏◕✿)*
 
 ### ✮⋆˙Journal Entires ˙⋆✮
 
-Check out my [Journal 01]([journal/8262025-entry.md](journal/Chapter 1 Journal Reflection-entry.md)
+Check out my [Journal 01]([journal/8262025-entry.md](https://docs.google.com/document/d/1DY93N4fH6ehYMmhxmSC-ndIkrIwpCNnEK7JCGf3iHaM/edit?tab=t.0))
