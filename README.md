@@ -17,4 +17,4 @@ This is *italicized* *★~(◡﹏◕✿)*
 
 ### ✮⋆˙Journal Entires ˙⋆✮
 
-Check out my [Journal 01](journal/8262025-entry.md) 
+Check out my [Journal 01]([journal/8262025-entry.md](https://github.com/nysunshine-glitchy/ixd_ART356F25/blob/main/journal/Chapter%201%20Journal%20Reflection-entry.md)) 
