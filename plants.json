@@ -1,0 +1,125 @@
+{ 
+  "plants": [
+    {
+      "label": "golden\npothos",
+      "category": "Indoor/Low Light",
+      "image": "assets/pothos golden.PNG",
+      "link": "https://mountaincrestgardens.com/pothos-golden/"
+      
+    },
+    {
+      "label": "snakeplant\n'zeylanica' ",
+      "category": "Indoor/Low Light",
+      "image": "assets/snake plant zeylanica.PNG",
+      "link": "https://mountaincrestgardens.com/snake-plant-zeylanica/"
+      
+
+    },
+    {
+      "label": "crassula\nbaby's necklace",
+      "category": "Outdoor/Bright Light",
+      "image": "assets/crassula babysnecklace.PNG",
+      "link": "https://mountaincrestgardens.com/crassula-babys-necklace/"
+     
+
+    },
+    {
+      "label": "golden ball\ncactus",
+      "category": "Outdoor/Bright Light",
+      "image": "assets/catcus golden ball.PNG",
+      "link": "https://mountaincrestgardens.com/parodia-leninghausii-golden-ball-cactus/"
+      
+
+    },
+{
+    "label": "alocasia\nregal shields",
+      "category": "Indoor/Low Light",
+      "image": "assets/alocasia regal shield.PNG",
+      "link": "https://mountaincrestgardens.com/alocasia-regal-shields/"
+      
+},
+{
+"label": "red\nanthurium",
+"category": "Indoor/Low Light",
+"image": "assets/anthurium red.PNG",
+"link": "https://mountaincrestgardens.com/anthurium-red/"
+
+
+},
+{
+"label": "parlor\npalm",
+"category": "Indoor/Low Light",
+"image": "assets/parlor palm.PNG",
+"link": "https://mountaincrestgardens.com/parlor-palm-chamaedorea-elegans/"
+
+
+},
+{
+"label": "lemon button\nfern",
+"category": "Indoor/Low Light",
+"image": "assets/fern lemonn buttonn.PNG",
+"link": "https://mountaincrestgardens.com/fern-lemon-button/"
+
+
+},
+{
+"label": "ruby pink\nficus",
+"category":"Indoor/Low Light",
+"image": "assets/ficus ruby pink.PNG",
+"link": "https://mountaincrestgardens.com/ficus-elastica-ruby-pink/"
+
+},
+{
+"label": "heartleaf\nphilodendron",
+"category": "Indoor/Low Light",
+"image":"assets/pliodendron cordatum heartleaf.PNG",
+"link":"https://mountaincrestgardens.com/philodendron-cordatum-heartleaf/"
+
+
+},
+{
+"label": "baby\njade",
+"category": "Outdoor/Bright Light",
+"image": "assets/jade.PNG",
+"link": "https://mountaincrestgardens.com/crassula-ovata-baby-jade/"
+
+},
+{
+"label": "echeveria\nchroma",
+"category": "Outdoor/Bright Light",
+"image" :"assets/echeveria chroma.PNG",
+"link": "https://mountaincrestgardens.com/echeveria-perle-von-nurnberg/"
+
+
+},
+{
+"label": "string of pearls",
+"category": "Outdoor/Bright Light",
+"image": "assets/strong of pearls.PNG",
+"link": "https://mountaincrestgardens.com/senecio-rowleyanus-string-of-pearls/"
+
+},
+{"label": "aloe\nvera",
+"category":"Outdoor/Bright Light",
+"image": "assets/aloe vera.PNG",
+"link": "https://mountaincrestgardens.com/aloe-vera/"
+},
+{"label": "reverse\nspider plant",
+"category":"Outdoor/Bright Light",
+"image": "assets/spider plant.PNG",
+"link": "https://mountaincrestgardens.com/spider-plant-reverse-chlorophytum-comosum/"
+
+}
+
+
+
+      
+
+    
+
+
+
+
+
+  ]
+} 
