@@ -1,4 +1,4 @@
-# welcome to Nyjayia's first github repo( it's not actually my first one :P)
+# welcome to Nyjayia's github repo
 
 This repo is going to host all of my reading and projects for the Art 356 course!! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
